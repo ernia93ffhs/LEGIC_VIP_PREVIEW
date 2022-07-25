@@ -1,0 +1,2 @@
+# LEGIC_VIP_PREVIEW
+LEGIC VIP Preview Page
