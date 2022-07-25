@@ -1,0 +1,15 @@
+{
+    "name": "LEGIC_VIP",
+    "short_name": "LEGIC_VIP",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#FFFFFF",
+    "theme_color": "#000",
+    "description": "LEGIC Virtual Platform",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
